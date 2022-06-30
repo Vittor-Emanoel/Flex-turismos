@@ -1,7 +1,7 @@
 # Flex-turismos
 Projeto desenvolvido no bootcamp Dio.
 
-Esse projeito foi criado para praticar o CSS-FLEXBOX e a responsividade.
+Esse projeito foi criado para praticar o CSS-FLEXBOX.
 
 Resultado do Projeto:
 
